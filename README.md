@@ -32,7 +32,9 @@ The circuit diagram is shown in the following picture:
 
 ### How to do it:
  1. Mount the battery case
+ 
      <img src="aa_battery_case.jpg?raw=true" width="400">
+	 
  1. Take the two pieces of wire together. Mark somehow the two ends of one of the wires. We used a color tape.
  2. Next we will built the coil. Roll the two pieces of wires forming a circle. We rolled the two wires on a battery to give adequate shape.
  3. Use tape to fix the coil so it does not disentangle itself.
