@@ -18,7 +18,9 @@ We utilized a simple circuit that permits to turn a LED on with a AA battery eve
 <!--- ![Joule thief in a breadboard](general_view(breadboard).jpg?raw=true "Joule thief circuit")--->
 <!--- ![Joule thief final version](general_view(top).jpg?raw=true "Joule thief circuit") --->
 
-The ** components ** we used are the following:
+** NOTE:** Figures have good resolution. When you click you can make them much bigger.
+
+The **components** we used are the following:
  * AA battery
  * LED (any color)
  * Resistor (1K Ohm)
