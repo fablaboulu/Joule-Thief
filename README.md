@@ -7,8 +7,8 @@
 A Joule thief is a low-cost self-oscillating voltage booster for driving small loads. It can use all the energy available in a battery, so it can be used even if the battery is almost "empty".
 
 More info: 
-*[Wikipedia page](https://en.wikipedia.org/wiki/Joule_thief)
-*[Youtube video](https://www.youtube.com/watch?v=0GVLnyTdqkg)
+ * [Wikipedia page](https://en.wikipedia.org/wiki/Joule_thief)
+ * [Youtube video](https://www.youtube.com/watch?v=0GVLnyTdqkg)
 
 ### Our Joule Thief implementation
 
