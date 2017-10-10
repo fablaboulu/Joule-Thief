@@ -52,5 +52,5 @@ The circuit diagram is shown in the following picture:
  * Image files: how it should look like.
 
 ## Author
-Original idea and implementation: Antti Mäntyniemi -> antti.mantyniemi@oulu.fi
+Original idea and implementation: Antti Mäntyniemi -> antti.mantyniemi@oulu.fi<br/>
 Instructions:  Iván Sánchez Milara -> ivan.sanchez@oulu.fi
