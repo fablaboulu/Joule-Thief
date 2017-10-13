@@ -49,6 +49,7 @@ The circuit diagram is shown in the following picture:
 ## Files:
  * Single_AA_Battery_Holder.svg -> File to laser-cut the battery case 
  * JouleThief_main_board.svg -> File to laser-cut the main board
+ * JouleThief_main_board_diagram.png -> shows the location of the components in the board.
  * diagram.pdf -> How the components should connect with each other
  * diagram.png -> Schematics
  * Image files: how it should look like.
